@@ -1,4 +1,4 @@
-# Mastering DOM Manipulation with JavaScript
+# Mastering DOM Manipulation with JavaScript 🚀
 This repository serves as a comprehensive guide and set of examples for understanding and practicing Document Object Model (DOM) manipulation using JavaScript. The DOM is a programming interface for web documents, allowing JavaScript to access and change the content, structure, and style of a webpage.
 
 ---
@@ -120,4 +120,4 @@ Feel free to experiment with the code, modify the examples, and build your own D
 
 ---
 
-#### Happy Coding!
+#### Happy Coding! 💻
